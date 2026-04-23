@@ -21,4 +21,3 @@ Este é um projeto desenvolvido no segundo ano de Ciência da Computação duran
 - **Nome:** Lucas Werpp Franco **RM:** 556044
 - **Nome:** Massayoshi Bando **RM:** 561779
 - **Nome:** Lucca Rezende **RM:** 564180
-```
